@@ -1,0 +1,7 @@
+gate_id	gate_name	zone	display_rank	cadence_days	latest_inspected_at	latest_outcome	latest_inspector	due_at	valid_inspection_count	status
+FG-202	Mill Channel	CENTRAL	1	30	2092-02-20T09:00:00Z	PASS	Rina Cole	2092-03-21T09:00:00Z	1	DUE_SOON
+FG-204	East Levee	EAST	2	21	2092-03-01T08:00:00Z	PASS	Omar Bell	2092-03-22T08:00:00Z	1	DUE_SOON
+FG-201	North Spillway	UPPER	3	14	2092-03-15T10:00:00Z	PASS	Lei Morgan	2092-03-29T10:00:00Z	1	CURRENT
+FG-206	Depot Bypass	WEST	4	14					0	NO_INSPECTION
+FG-203	Orchard Sluice	SOUTH	5	7	2092-03-19T07:30:00Z	FAIL	Samir Vale	2092-03-26T07:30:00Z	2	FAILED
+FG-205	Marsh Cut	WETLAND	6	10	2092-03-01T06:00:00Z	PASS	Mara Quill	2092-03-11T06:00:00Z	1	OVERDUE
