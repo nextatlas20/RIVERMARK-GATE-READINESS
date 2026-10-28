@@ -1,0 +1,7 @@
+gate_id,gate_name,zone,inspection_cadence_days,display_rank
+FG-201,North Spillway,UPPER,14,3
+FG-202,Mill Channel,CENTRAL,30,1
+FG-203,Orchard Sluice,SOUTH,7,5
+FG-204,East Levee,EAST,21,2
+FG-205,Marsh Cut,WETLAND,10,6
+FG-206,Depot Bypass,WEST,14,4
